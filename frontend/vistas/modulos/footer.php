@@ -79,18 +79,18 @@ FOOTER
 
 					<br><br>
 
-					<i class="fa fa-envelope" aria-hidden="true"></i> soporte@tiendavirtual.com
+					<i class="fa fa-envelope" aria-hidden="true"></i> soporte@soporte.com
 
 					<br><br>
 
-					<i class="fa fa-map-marker" aria-hidden="true"></i> Calle 45F 82 - 31 Local 102
+					<i class="fa fa-map-marker" aria-hidden="true"></i> Calle ejemplo
 
 					<br><br>
-					Medellín | Colombia
+					Misiones | Argentina
 
 				</h5>
 
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.061210342917!2d-75.60279258568647!3d6.255666795471985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4429739f2122e9%3A0x4812b922f0ad8f18!2sCl.+45f+%2382-31%2C+Medell%C3%ADn%2C+Antioquia!5e0!3m2!1ses!2sco!4v1511900955540" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>	
+				<iframe src="" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>	
 
 			</div>
 
